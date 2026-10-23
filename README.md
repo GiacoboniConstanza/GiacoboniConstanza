@@ -40,7 +40,7 @@ El código de trabajo se aloja en GitLab privado; este perfil reúne proyectos p
 
 ### `// destacados`
 
-- **Nuvia:** concepción y desarrollo de una plataforma SaaS de agenda y reservas con suscripciones, marketplace y facturación electrónica, hoy producto de Whitebox.
+- **Agenda:** concepción y desarrollo de una plataforma SaaS de agenda y reservas con suscripciones, marketplace y facturación electrónica, hoy producto de Whitebox.
 - **CRM de gestión:** desarrollo principal de un CRM para un colegio profesional con unos 3000 usuarios, con incorporación de tests automatizados.
 - **Calidad y DevOps:** pipelines de CI/CD en GitLab, PHPUnit, PHPStan y entornos con Docker.
 - **Gestión del área:** implementación de ClickUp para tareas, tickets y horas, y documentación para auditorías ISO 9001.
@@ -49,7 +49,7 @@ El código de trabajo se aloja en GitLab privado; este perfil reúne proyectos p
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| [**A Medias**](https://a-medias-delta.vercel.app/) | Aplicación web personal. [completar: una línea sobre qué resuelve] | React · TypeScript · Supabase · Vercel |
+| [**A Medias**](https://a-medias-delta.vercel.app/) | Aplicación web personal. [completar: Compartir gastos] | React · TypeScript · Supabase · Vercel |
 
 ---
 
@@ -63,7 +63,7 @@ Work code is hosted in private GitLab; this profile gathers personal and public 
 
 ### `// highlights`
 
-- **Nuvia:** conception and development of a SaaS scheduling and booking platform with subscriptions, marketplace and electronic invoicing, now a Whitebox product.
+- **Schedule:** conception and development of a SaaS scheduling and booking platform with subscriptions, marketplace and electronic invoicing, now a Whitebox product.
 - **Management CRM:** lead development of a CRM for a professional association with about 3,000 users, including the introduction of automated testing.
 - **Quality & DevOps:** CI/CD pipelines in GitLab, PHPUnit, PHPStan and Docker-based environments.
 - **Team management:** rollout of ClickUp for tasks, tickets and time tracking, plus documentation for ISO 9001 audits.
@@ -72,7 +72,7 @@ Work code is hosted in private GitLab; this profile gathers personal and public 
 
 | Project | Description | Stack |
 |---|---|---|
-| [**A Medias**](https://a-medias-delta.vercel.app/) | Personal web application. [complete: one line on what it solves] | React · TypeScript · Supabase · Vercel |
+| [**A Medias**](https://a-medias-delta.vercel.app/) | Personal web application. [complete: split expenses] | React · TypeScript · Supabase · Vercel |
 
 ---
 
